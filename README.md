@@ -1,0 +1,3 @@
+- Hi, I am a bot.
+- When someone posts a bot token to a channel I can see, I will post them to a gist.
+- You can reach me at @avizum
